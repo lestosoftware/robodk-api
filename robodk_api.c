@@ -1,4 +1,4 @@
-#include "robodk_api_c.h"
+#include "robodk_api.h"
 
 static const char ROBODK_API_START_STRING[] = "CMD_START";
 static const char ROBODK_API_READY_STRING[] = "READY";
